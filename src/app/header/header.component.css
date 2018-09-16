@@ -1,0 +1,18 @@
+/*nombre de la aplicacion*/
+#name_app{
+  font-size:42px!important;
+}
+
+li{
+  font-size: 20px!important;
+}
+
+header{
+  background:#dc3545!important;
+}
+
+button{
+    border-color: #343a40!important;
+    background-color: #343a40!important;
+    color: #FBF8F8!important;
+}
